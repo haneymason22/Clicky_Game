@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Joker",
+        "image": "./images/joker.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Harley",
+        "image": "./images/harley.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Penguin",
+        "image": "./images/penguin.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Two-Face",
+        "image": "./images/two_face.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Mr. Freeze",
+        "image": "./images/mr_freeze.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Scarecrow",
+        "image": "./images/scarecrow.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Poison Ivy",
+        "image": "./images/poison_ivy.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Catwoman",
+        "image": "./images/catwoman.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Alfred",
+        "image": "./images/alfred.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Robin",
+        "image": "./images/robin.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Batgirl",
+        "image": "./images/batgirl.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Jim Gordon",
+        "image": "./images/gordon.jpg",
+        "clicked": false
+    }
+]
