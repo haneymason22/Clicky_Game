@@ -2,73 +2,73 @@
     {
         "id": 1,
         "name": "Joker",
-        "image": "./images/joker.jpg",
+        "image": "https://thefederalist.com/wp-content/uploads/2018/12/btas04joker-998x749.jpg",
         "clicked": false
     },
     {
         "id": 2,
         "name": "Harley",
-        "image": "./images/harley.jpg",
+        "image": "https://vignette.wikia.nocookie.net/batmantheanimatedseries/images/8/82/Harleyquinade_Radomski.jpg/revision/latest/scale-to-width-down/340?cb=20180706235625",
         "clicked": false
     },
     {
         "id": 3,
         "name": "Penguin",
-        "image": "./images/penguin.jpg",
+        "image": "https://vignette.wikia.nocookie.net/batman/images/6/64/23.jpg/revision/latest?cb=20120813050455",
         "clicked": false
     },
     {
         "id": 4,
         "name": "Two-Face",
-        "image": "./images/two_face.jpg",
+        "image": "https://thefederalist.com/wp-content/uploads/2019/02/btas11twoface2-998x746.jpg",
         "clicked": false
     },
     {
         "id": 5,
         "name": "Mr. Freeze",
-        "image": "./images/mr_freeze.jpg",
+        "image": "https://vignette.wikia.nocookie.net/batman/images/f/f9/03.jpg/revision/latest/top-crop/width/360/height/450?cb=20111212004240",
         "clicked": false
     },
     {
         "id": 6,
         "name": "Scarecrow",
-        "image": "./images/scarecrow.jpg",
+        "image": "https://vignette.wikia.nocookie.net/batmantheanimatedseries/images/b/b1/The_Scarecrow.png/revision/latest/scale-to-width-down/340?cb=20130114051815",
         "clicked": false
     },
     {
         "id": 7,
         "name": "Poison Ivy",
-        "image": "./images/poison_ivy.jpg",
+        "image": "https://i.pinimg.com/originals/f6/6b/72/f66b72b501ac487cc10aea68609df376.jpg",
         "clicked": false
     },
     {
         "id": 8,
         "name": "Catwoman",
-        "image": "./images/catwoman.jpg",
+        "image": "https://pbs.twimg.com/media/EBfOkKBX4AEzf5t.jpg",
         "clicked": false
     },
     {
         "id": 9,
         "name": "Alfred",
-        "image": "./images/alfred.jpg",
+        "image": "https://vignette.wikia.nocookie.net/batmantheanimatedseries/images/2/2a/NN_08_-_Alfred.jpg/revision/latest/scale-to-width-down/340?cb=20160915185051",
         "clicked": false
     },
     {
         "id": 10,
         "name": "Robin",
-        "image": "./images/robin.jpg",
+        "image": "https://vignette.wikia.nocookie.net/batmantheanimatedseries/images/9/9b/FoV_57_-_Robin.jpg/revision/latest/scale-to-width-down/340?cb=20160410013437",
         "clicked": false
     },
     {
         "id": 11,
         "name": "Batgirl",
-        "image": "./images/batgirl.jpg",
+        "image": "https://vignette.wikia.nocookie.net/batmantheanimatedseries/images/7/75/SZ_17_-_Batgirl.jpg/revision/latest/scale-to-width-down/340?cb=20171203225635",
         "clicked": false
     },
     {
         "id": 12,
         "name": "Jim Gordon",
-        "image": "./images/gordon.jpg",
+        "image": "https://vignette.wikia.nocookie.net/batmantheanimatedseries/images/f/f9/CCC_38_-_Gordon.jpg/revision/latest/scale-to-width-down/340?cb=20160730221327",
         "clicked": false
     }
 ]
