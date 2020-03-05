@@ -88,7 +88,7 @@ class App extends Component {
            <Navbar
             className="row"
            >
-             <a className = "navbar-brand" href = "/">Clicky Game</a>
+             <a className = "navbar-brand" href = "/Clicky_Game/">Clicky Game</a>
 
              <h3 className="navb-item">{ message }</h3>
 
