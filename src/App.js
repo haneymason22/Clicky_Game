@@ -82,7 +82,7 @@ class App extends Component {
 
 
   render () {
-    const { message, score, tiles, topScore } = this.state;
+    const { message, score, topScore } = this.state;
     return (
       <div>
            <Navbar
